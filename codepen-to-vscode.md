@@ -1,5 +1,6 @@
+![](https://github.com/rrodrigues345/rrodrigues345.github.io/raw/main/codepen-to-vscode/banner.png)
 
-## [CodePen & VSCode](/codepen-to-vscode/banner.png)
+## CodePen & VSCode
 
 CodePen é um editor de código on-line útil e libertador para desenvolvedores de qualquer nível de habilidade, e particularmente capacitante para pessoas que estão aprendendo a programar. Usando apenas seu navegador, permite que você escreva códigos principalmente em linguagens de front-end como HTML, CSS, JavaScript e veja os resultados à medida que os constrói.  Além disso, é principalmente um ambiente de desenvolvimento social pois permite uma maneira fácil de compartilhar seu projeto com a comunidade dev. 
 
