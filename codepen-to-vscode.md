@@ -6,4 +6,6 @@ Entretanto, em alguns casos, pode ser que você queira exportar o seu projeto pa
 
 ## Primeiros Passos
 
-### Crie uma para armazenar seu projeto no seu computador:
+### Crie uma pasta para armazenar o projeto no seu computador:
+
+
