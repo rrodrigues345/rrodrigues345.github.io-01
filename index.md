@@ -1,7 +1,7 @@
 ## Minhas publicações no GitHub Pages =)
 
 
-[CodePen no VS code](codepen-to-vscode.md)
+[CodePen no VS code](https://dev.to/rrodrigues345/codepen-no-vs-code-1mcj)
 
 ## Links p seguir depois:
 
