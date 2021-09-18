@@ -29,3 +29,6 @@ https://pimylifeup.com/raspberry-pi-samba/
 ### Configuring Wake on LAN on Slackware 14.2
 https://docs.slackware.com/howtos:network_services:wol
 
+
+### GitHub - starting with python scripts
+https://gist.github.com/jasonkeene/2ac5e552f2ba75d0295b
