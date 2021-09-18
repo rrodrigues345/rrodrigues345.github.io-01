@@ -22,6 +22,9 @@ https://help.dropbox.com/installs-integrations/sync-uploads/files-not-syncing
 
 ### Configuring Samba on Slackware 14.2 
 https://wiki.alienbase.nl/doku.php?id=slackware:samba
+https://pimylifeup.com/raspberry-pi-samba/
+
+
 
 ### Configuring Wake on LAN on Slackware 14.2
 https://docs.slackware.com/howtos:network_services:wol
