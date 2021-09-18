@@ -20,5 +20,9 @@ You can see more information about this in the relevant Help Center article:
 
 https://help.dropbox.com/installs-integrations/sync-uploads/files-not-syncing 
 
+### Configuring Samba on Slackware 14.2 
+https://wiki.alienbase.nl/doku.php?id=slackware:samba
 
+### Configuring Wake on LAN on Slackware 14.2
+https://docs.slackware.com/howtos:network_services:wol
 
