@@ -32,3 +32,6 @@ https://docs.slackware.com/howtos:network_services:wol
 
 ### GitHub - starting with python scripts
 https://gist.github.com/jasonkeene/2ac5e552f2ba75d0295b
+
+### Tocar som de um PC em outro
+https://plus.diolinux.com.br/t/direcionar-som-para-outro-computador-pulseaudio/11688
