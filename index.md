@@ -35,3 +35,6 @@ https://gist.github.com/jasonkeene/2ac5e552f2ba75d0295b
 
 ### Tocar som de um PC em outro
 https://plus.diolinux.com.br/t/direcionar-som-para-outro-computador-pulseaudio/11688
+
+### Check running process in Linux
+https://www.cyberciti.biz/faq/how-to-check-running-process-in-linux-using-command-line/
