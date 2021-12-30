@@ -4,4 +4,5 @@
 
 [RADIO TROPICAL FM  - LISBOA](https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream)
 
-[RADIO TROPICAL FM  - LISBOA](https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream?type=.flv)
+[RADIO TROPICAL FM  - LISBOA](https://solid24.streamupsolutions.com/proxy/dcofieen)
+
