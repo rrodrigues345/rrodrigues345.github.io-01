@@ -1,16 +1,12 @@
-## Radio List
+## Rádios: 
 
 [LIBERDADE PORTO ALEGRE 970 AM](http://cast4.audiostream.com.br:8655/mp3)
 
-[RADIO TROPICAL FM  - LISBOA](https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream)
+[RADIO ASPEN - LINK2](https://streaming2.hostingmontevideo.com:7010/;)
 
-[RADIO TROPICAL FM  - LISBOA](https://solid24.streamupsolutions.com/proxy/dcofieen)
-
-[RADIO ASPEN 103.5 FM - PUNTA DEL ESTE](https://streaming2.hostingmontevideo.com:7010/stream)
+[RADIO ASPEN - LINK3](https://www.aspenpunta.com)
 
 [BONHEUR-99.1-FM-SAINT-BRIEUC-FRANCE](http://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3)
-
-[DEL-SOL-PUNTA](http://radio1.dl.uy:9950)
 
 [EURODANCE-FRANKFURT](http://mp3.ffh.de/ffhchannels/hqeurodance.mp3)
 
@@ -20,11 +16,7 @@
 
 [RADIO VALE DOS SINOS 88.7 FM - NOVO HAMBURGO](http://r13.ciclano.io:8660/stream)
 
-[RADIO ABC 103 FM - NOVO HAMBURGO](https://streamabc.gruposinos.com.br:8443/radio)
-
-[DIFUSORA FM 103.9 - BAGÉ](http://stm3.painelvox.com:8052/stream)
-
-[RADIO DELTA FM - BAGÉ](http://stm8.painelvox.com:8066/stream)
+[RADIO ABC - LINK 2](http://abc103fm.com.br)
 
 [ECOS DE GALPÃO PORTO ALEGRE](http://216.144.247.102:8160/live)
 
@@ -38,4 +30,22 @@
 
 [RADIO LA VOZ DE MELO 1340 AM - MELO - URUGUAI](http://gnstreammedia.com:8170/stream)
 
-[RADIO METRÓPOLIS 95.9 FM - PUNTA DEL ESTE - URUGUAI](http://51.15.152.81:8141/stream/0) *offline*
+
+
+## Rádios *off-line*:
+
+*off-line* [DIFUSORA FM 103.9 - BAGÉ](http://stm3.painelvox.com:8052/stream)
+
+*off-line* [RADIO DELTA FM - BAGÉ](http://stm8.painelvox.com:8066/stream)
+
+*off-line* [RADIO METRÓPOLIS 95.9 FM - PUNTA DEL ESTE - URUGUAI](http://51.15.152.81:8141/stream/0)
+
+*off-line* [RADIO ABC 103 FM - NOVO HAMBURGO](https://streamabc.gruposinos.com.br:8443/radio)
+
+*off-line* [RADIO TROPICAL FM  - LISBOA](https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream)
+
+*off-line* [RADIO ASPEN 103.5 FM - PUNTA DEL ESTE](https://streaming2.hostingmontevideo.com:7010/stream)
+
+*off-line* [DEL-SOL-PUNTA](http://radio1.dl.uy:9950)
+
+
