@@ -3,6 +3,9 @@
 
 [CodePen no VS code](https://dev.to/rrodrigues345/codepen-no-vs-code-1mcj)
 
+[RADIO LIST](https://github.com/rrodrigues345/rrodrigues345.github.io/blob/main/radios/index.md)
+
+
 ## Links p seguir depois:
 
 https://www.cyberciti.biz/faq/unix-linux-execute-command-using-ssh/
