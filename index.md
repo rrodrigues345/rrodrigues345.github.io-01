@@ -5,6 +5,7 @@
 
 [RADIO LIST](https://github.com/rrodrigues345/rrodrigues345.github.io/blob/main/radios/index.md)
 
+[RADIOS LIST](https://rrodrigues345.github.io/radios/)
 
 ## Links p seguir depois:
 
