@@ -49,5 +49,5 @@
 *off-line* [DEL-SOL-PUNTA](http://radio1.dl.uy:9950)
 
 ## Cartoons - clássicos
-[CARTOONS] (https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8)
+[CARTOONS](https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8)
 
